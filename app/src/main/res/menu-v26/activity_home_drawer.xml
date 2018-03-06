@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/vape"
+            android:iconTint="@android:color/white"
+            android:title="@string/menu" />
+    </group>
+
+    <item
+        android:id="@+id/nav_carro"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:iconTint="@android:color/white"
+        android:title="@string/carro" />
+
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:iconTint="@android:color/white"
+        android:title="@string/perfil" />
+
+    <item
+        android:id="@+id/nav_log_out"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:iconTint="@android:color/white"
+        android:title="@string/desconectar" />
+
+
+</menu>

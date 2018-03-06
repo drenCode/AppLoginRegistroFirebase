@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppFirebase</string>
+    <string name="slogan">En internet, nadie sabe que eres un conejo</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="carro">Carro</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="menu">Menu</string>
+    <string name="perfil">Perfil</string>
+</resources>
